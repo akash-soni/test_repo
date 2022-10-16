@@ -1,7 +1,7 @@
 apple
 banana
 mango
-guavava
+kiwi
 pomogranate
 strawberry
 grapes
